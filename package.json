@@ -2,7 +2,7 @@
   "name": "vscode-command-task",
   "displayName": "Command Tasks",
   "description": "Execute commands built into Visual Studio Code or provided by extensions as Tasks.",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/malsyned/vscode-command-task"
