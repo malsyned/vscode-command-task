@@ -10,13 +10,13 @@ Adds a new task type, `vscode-command`, which can be used to configure tasks in 
 
 ```jsonc
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"type": "vscode-command",
-			"label": "Show the test extension side pane",
-			"command": "workbench.view.extension.test"
-		}
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "vscode-command",
+            "label": "Show the test extension side pane",
+            "command": "workbench.view.extension.test"
+        }
     ]
 }
 ```
